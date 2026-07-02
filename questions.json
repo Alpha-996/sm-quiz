@@ -1,0 +1,817 @@
+{
+  "subject": "Sales Management (TU BESC)",
+  "units": [
+    {
+      "id": "unit1",
+      "unit": "Unit I",
+      "title": "Sales Organisation",
+      "questions": [
+        {
+          "id": "u1-01",
+          "question": "The American Marketing Association defines sales management as the planning, direction and control of:",
+          "options": ["Personal selling", "Advertising campaigns", "Marketing research", "Channel logistics"],
+          "answer": "Personal selling",
+          "explanation": "The AMA definition ties sales management to personal selling — recruiting, training, routing, paying and motivating the sales force. 'Marketing research' is tempting as a management function but belongs to marketing, not the personal-selling focus of sales management."
+        },
+        {
+          "id": "u1-02",
+          "question": "Sales management is best described as:",
+          "options": ["A sub-set of marketing management", "A synonym for marketing management", "A branch of financial management", "The whole of the marketing exchange"],
+          "answer": "A sub-set of marketing management",
+          "explanation": "Sales management handles only the selling function and is narrower than marketing management. 'A synonym for marketing management' is the classic trap — marketing covers the whole exchange, sales only the personal-selling arm."
+        },
+        {
+          "id": "u1-03",
+          "question": "The objectives of sales management, in their correct order of priority, are:",
+          "options": ["Sales volume, then contribution to profit, then continuous growth", "Profit, then growth, then sales volume", "Growth, then sales volume, then profit", "Sales volume, then growth, then profit"],
+          "answer": "Sales volume, then contribution to profit, then continuous growth",
+          "explanation": "The V-P-G sequence puts volume first, then profit, then growth. Options that start with profit or growth invert the order — volume alone isn't the end goal, but it comes first."
+        },
+        {
+          "id": "u1-04",
+          "question": "Which of the following is NOT an importance of sales management?",
+          "options": ["Reducing product manufacturing defects", "Generating the firm's revenue", "Providing market intelligence", "Controlling selling and distribution costs"],
+          "answer": "Reducing product manufacturing defects",
+          "explanation": "Revenue, market intelligence and cost control are all importances of sales management; reducing manufacturing defects is a production concern, not a selling function."
+        },
+        {
+          "id": "u1-05",
+          "question": "\"Increasing sales volume, profit and growth\" describes sales management's ___, whereas \"being the firm's revenue source and bridge to customers\" describes its ___.",
+          "options": ["objectives; importance", "importance; objectives", "principles; purpose", "purpose; principles"],
+          "answer": "objectives; importance",
+          "explanation": "V-P-G is what sales management aims for (objectives); revenue and bridge points are why it matters (importance). MCQs swap these two lists — objectives are goals, importance is the reasons it is needed."
+        },
+        {
+          "id": "u1-36",
+          "question": "Under the standard (AMA) definition, sales management covers managing the sales force through recruiting, training, routing, paying and motivating. Which of these is NOT part of that definition?",
+          "options": ["Setting the company's dividend policy", "Recruiting and training the sales force", "Routing and assigning the sales force", "Supervising and motivating the sales force"],
+          "answer": "Setting the company's dividend policy",
+          "explanation": "The AMA definition enumerates recruiting, training, equipping, assigning, routing, supervising, paying and motivating the sales force. Setting dividend policy is a finance/board decision — tempting because it is a real corporate task, but it lies outside personal-selling management."
+        },
+        {
+          "id": "u1-37",
+          "question": "The concept of a sales organisation is best understood as a framework of positions and relationships that defines:",
+          "options": ["Who does what in the selling function", "How products are manufactured", "The company's tax obligations", "The advertising media schedule"],
+          "answer": "Who does what in the selling function",
+          "explanation": "The concept of a sales organisation is the framework of positions and relationships specifying who does what in selling. This differs from its formal definition, which stresses grouping activities and assigning authority/responsibility — a related but distinct emphasis, which is why the 'manufacturing/tax' distractors fall outside the selling function."
+        },
+        {
+          "id": "u1-06",
+          "question": "A sales organisation is best defined as an arrangement that:",
+          "options": ["Groups sales activities and assigns them to people with authority and responsibility", "Forecasts total market demand for a product", "Sets the advertising budget for a campaign", "Designs the physical distribution network"],
+          "answer": "Groups sales activities and assigns them to people with authority and responsibility",
+          "explanation": "The definition centres on grouping activities and assigning authority/responsibility. Forecasting demand is a planning task, not the structural meaning of a sales organisation."
+        },
+        {
+          "id": "u1-07",
+          "question": "Which is NOT a characteristic of a sales organisation?",
+          "options": ["Guaranteed profit in every quarter", "A group of people with a common goal", "Defined authority-responsibility relationships", "A formal but flexible structure"],
+          "answer": "Guaranteed profit in every quarter",
+          "explanation": "Common goal, defined authority and a flexible formal structure are characteristics; guaranteed profit is an outcome no structure can promise, so it is the odd one out."
+        },
+        {
+          "id": "u1-08",
+          "question": "\"Avoiding duplication of effort and fixing responsibility\" is a ___ of the sales organisation, while \"efficiency, specialisation and higher morale\" are its ___.",
+          "options": ["purpose; importance", "importance; purpose", "characteristic; principle", "principle; characteristic"],
+          "answer": "purpose; importance",
+          "explanation": "Purpose is what the structure is meant to do (assign duties, avoid duplication); importance is the benefits delivered (efficiency, specialisation). The two lists are frequently swapped in MCQs."
+        },
+        {
+          "id": "u1-09",
+          "question": "Which of these is NOT typically a department within a sales organisation?",
+          "options": ["Litigation department", "Advertising department", "Distribution/logistics department", "After-sales service department"],
+          "answer": "Litigation department",
+          "explanation": "Advertising, distribution and after-sales service are standard sales-organisation departments; a litigation department is a legal function outside the sales organisation."
+        },
+        {
+          "id": "u1-10",
+          "question": "The first step in setting up a sales organisation is to:",
+          "options": ["Define the objectives/goals", "Delegate authority and responsibility", "Assign personnel to positions", "Provide coordination and control"],
+          "answer": "Define the objectives/goals",
+          "explanation": "Setup always begins with objectives (Goal to Activity to Group to Assign to Delegate to Coordinate). Delegating authority and coordination come near the end, not the start."
+        },
+        {
+          "id": "u1-11",
+          "question": "In setting up a sales organisation, immediately after grouping activities into positions, you should:",
+          "options": ["Assign personnel to the positions", "Define the objectives", "Determine the activities needed", "Provide reporting relationships"],
+          "answer": "Assign personnel to the positions",
+          "explanation": "The order is group, then assign, then delegate. Determining activities and defining objectives happen earlier; providing reporting relationships is last."
+        },
+        {
+          "id": "u1-12",
+          "question": "The final step in setting up a sales organisation is:",
+          "options": ["Providing coordination and control through reporting relationships", "Grouping activities into positions", "Determining the activities required", "Defining objectives"],
+          "answer": "Providing coordination and control through reporting relationships",
+          "explanation": "Coordination and control close the process. Grouping and defining objectives are early steps — choosing them mistakes the sequence's end for its middle or start."
+        },
+        {
+          "id": "u1-13",
+          "question": "Which is NOT a factor affecting the size or structure of a sales organisation?",
+          "options": ["The personal hobbies of the sales reps", "Nature and size of the firm", "Number and type of products", "Size and spread of the market"],
+          "answer": "The personal hobbies of the sales reps",
+          "explanation": "Firm nature, product range and market spread all shape sales-organisation size; reps' personal hobbies are irrelevant to structural design."
+        },
+        {
+          "id": "u1-14",
+          "question": "Which of these is NOT a principle of sales organisation structure?",
+          "options": ["Maximum possible levels of management", "Unity of command", "Reasonable span of control", "Flexibility"],
+          "answer": "Maximum possible levels of management",
+          "explanation": "The principle is minimum levels of management, not maximum. Unity of command, span of control and flexibility are genuine principles — 'maximum levels' reverses the real one."
+        },
+        {
+          "id": "u1-15",
+          "question": "The principle stating that each subordinate should report to only one superior is:",
+          "options": ["Unity of command", "Span of control", "Flexibility", "Customer focus"],
+          "answer": "Unity of command",
+          "explanation": "Unity of command means one boss per subordinate. Span of control is the easily-confused neighbour — it concerns the number of subordinates one manager can effectively supervise."
+        },
+        {
+          "id": "u1-16",
+          "question": "\"The number of subordinates a single manager can effectively supervise\" refers to:",
+          "options": ["Span of control", "Unity of command", "Minimum levels of management", "Balanced coordination"],
+          "answer": "Span of control",
+          "explanation": "Span of control concerns how many report to one manager. Unity of command is the trap — it concerns how many superiors one subordinate has (only one)."
+        },
+        {
+          "id": "u1-17",
+          "question": "Sales complexity refers to the difficulty and confusion arising mainly from:",
+          "options": ["Too many products, markets, channels and layers", "Too few salespeople in the field", "A shortage of advertising budget", "Excessive customer loyalty"],
+          "answer": "Too many products, markets, channels and layers",
+          "explanation": "Complexity grows with product range, markets, channels and hierarchy layers, slowing decisions. 'Too few salespeople' is a capacity issue, not the structural complexity described here."
+        },
+        {
+          "id": "u1-18",
+          "question": "\"Flattening layers and adopting CRM technology\" are ___ of sales complexity, whereas \"too many management levels\" is a ___.",
+          "options": ["remedies; factor", "factors; remedy", "causes; effect", "effects; cause"],
+          "answer": "remedies; factor",
+          "explanation": "Remedies cure complexity (flatten, use tech); factors cause it (too many layers). MCQs mix the cause column with the cure column — 'too many layers' is a cause, 'flatten layers' its cure."
+        },
+        {
+          "id": "u1-19",
+          "question": "Which is NOT a remedy to reduce sales complexity?",
+          "options": ["Adding more management layers", "Simplifying the structure", "Using CRM/technology", "Decentralising decisions"],
+          "answer": "Adding more management layers",
+          "explanation": "Remedies simplify and flatten; adding layers deepens complexity and is actually one of its causes. The other three genuinely reduce complexity."
+        },
+        {
+          "id": "u1-38",
+          "question": "Which of the following is NOT a factor that causes sales-organisation complexity?",
+          "options": ["A tight single-product focus served through one channel", "A wide product range", "A large, geographically dispersed market", "Too many management levels"],
+          "answer": "A tight single-product focus served through one channel",
+          "explanation": "Complexity is driven by a wide product range, dispersed geography, multiple channels and too many levels. A single-product, single-channel focus is the opposite — it reduces complexity, which is why it is the odd one out among these causes."
+        },
+        {
+          "id": "u1-20",
+          "question": "In which sales organisation model does a single rep independently handle the entire sales cycle alone?",
+          "options": ["The Island Model", "The Functional Model", "The Committee Model", "The Line-and-Staff Model"],
+          "answer": "The Island Model",
+          "explanation": "In the Island Model each rep is a self-sufficient 'island' doing everything. The Functional Model is the opposite — reps specialise by stage (lead-gen, closing, account management)."
+        },
+        {
+          "id": "u1-21",
+          "question": "A sales structure that splits selling into specialised functions such as lead-generation, closing and account management is the:",
+          "options": ["Functional Sales Organisation Model", "Island Model", "Geographic Model", "Informal Model"],
+          "answer": "Functional Sales Organisation Model",
+          "explanation": "The Functional Model divides labour by stage or specialism. The Island Model is the trap — there each generalist rep does the whole cycle alone, the reverse of specialisation."
+        },
+        {
+          "id": "u1-22",
+          "question": "The Island Model relies on ___ reps, whereas the Functional Model relies on ___ reps.",
+          "options": ["generalist; specialist", "specialist; generalist", "salaried; commissioned", "senior; junior"],
+          "answer": "generalist; specialist",
+          "explanation": "Island reps are independent generalists; Functional reps are specialists per stage. Reversing them ('specialist; generalist') is the built-in swap trap."
+        },
+        {
+          "id": "u1-23",
+          "question": "The Island Model is best suited to:",
+          "options": ["A simple product and a small or new, transactional team", "A highly complex product in a large organisation", "A geographically dispersed multinational", "A firm needing tight functional specialisation"],
+          "answer": "A simple product and a small or new, transactional team",
+          "explanation": "Island fits simple, transactional, small-team selling. Complex products in large organisations suit the Functional Model, which offers expertise and scalability — the tempting wrong pick."
+        },
+        {
+          "id": "u1-39",
+          "question": "Which of the following is a drawback of the Island Model?",
+          "options": ["Lack of collaboration and inconsistent results", "Built-in specialisation of tasks", "Smooth handoffs between sales stages", "High scalability for large organisations"],
+          "answer": "Lack of collaboration and inconsistent results",
+          "explanation": "Because Island reps work solo, the model suffers from no collaboration, inconsistency and poor scalability. Specialisation, smooth handoffs and scalability are strengths of the Functional Model, not the Island — which is what makes them tempting wrong picks."
+        },
+        {
+          "id": "u1-40",
+          "question": "A key advantage of the Functional Sales Organisation Model is:",
+          "options": ["Greater efficiency and expertise through specialisation", "A single generalist rep handling the whole cycle alone", "Minimal need for coordination between reps", "Being the best fit for a very small, new team"],
+          "answer": "Greater efficiency and expertise through specialisation",
+          "explanation": "The Functional Model's division of labour delivers efficiency, expertise and scalability. The distractors all describe the Island Model (solo generalist, minimal coordination, small-team fit) — tempting because they are correct for the other model."
+        },
+        {
+          "id": "u1-24",
+          "question": "Which of the following is NOT a recognised type of sales organisation structure?",
+          "options": ["Circular structure", "Line structure", "Line-and-staff structure", "Committee structure"],
+          "answer": "Circular structure",
+          "explanation": "Line, line-and-staff and committee are standard structure types; 'circular structure' is not a recognised sales-organisation form."
+        },
+        {
+          "id": "u1-25",
+          "question": "A structure with direct vertical authority, simple and best suited to small firms, is the:",
+          "options": ["Line structure", "Line-and-staff structure", "Functional structure", "Committee structure"],
+          "answer": "Line structure",
+          "explanation": "Line means direct vertical authority, simple, for small firms. Line-and-staff is the trap — it adds specialist advisors and suits larger firms."
+        },
+        {
+          "id": "u1-26",
+          "question": "Which structure adds specialist advisors to the direct chain of command and suits large firms?",
+          "options": ["Line-and-staff structure", "Line structure", "Committee structure", "Informal structure"],
+          "answer": "Line-and-staff structure",
+          "explanation": "Line-and-staff combines line authority with staff specialists. Plain line structure lacks the specialist advisors — that is the distinguishing feature being tested."
+        },
+        {
+          "id": "u1-27",
+          "question": "The spontaneous personal and social relationships that arise within a sales team form the ___ structure.",
+          "options": ["informal", "formal", "line", "functional"],
+          "answer": "informal",
+          "explanation": "Informal structure is the unofficial, spontaneous social ties; formal is the deliberately designed chart of authority and roles. Both coexist, but the question describes the informal one."
+        },
+        {
+          "id": "u1-28",
+          "question": "An officially planned arrangement of authority, roles and reporting lines is the ___ structure.",
+          "options": ["formal", "informal", "committee", "island"],
+          "answer": "formal",
+          "explanation": "Formal structure is deliberately designed (org chart, rules). Informal is the tempting opposite — unplanned relationships that grow on their own."
+        },
+        {
+          "id": "u1-29",
+          "question": "The recommended resolution for \"role overlap and duplication\" in a sales structure is:",
+          "options": ["Clear job descriptions and responsibilities", "Flattening the hierarchy", "Adding more staff", "Central coordination with shared goals"],
+          "answer": "Clear job descriptions and responsibilities",
+          "explanation": "Overlap is cured by clarifying roles. Flattening hierarchy fixes 'too many layers' and adding staff fixes overload — each problem has its own matched remedy."
+        },
+        {
+          "id": "u1-30",
+          "question": "\"Flattening the hierarchy and widening the span\" is the resolution for which sales-structure problem?",
+          "options": ["Too many management layers", "Poor communication", "Role duplication", "Conflict and rivalry"],
+          "answer": "Too many management layers",
+          "explanation": "Flattening and widening span directly cures excess layers. Poor communication is fixed by defined channels/CRM, and duplication by clear job descriptions — different problem-remedy pairs."
+        },
+        {
+          "id": "u1-31",
+          "question": "Decentralisation in a sales organisation means:",
+          "options": ["Delegating decision authority to lower or regional levels", "Concentrating all decisions at head office", "Eliminating all management layers", "Outsourcing the entire sales function"],
+          "answer": "Delegating decision authority to lower or regional levels",
+          "explanation": "Decentralisation pushes authority down to regions. Concentrating decisions at head office is centralisation — the exact opposite and the intended trap."
+        },
+        {
+          "id": "u1-32",
+          "question": "Compared with a centralised sales organisation, a decentralised one generally offers:",
+          "options": ["Faster local decisions but weaker central control", "Slower decisions but tighter uniform control", "Lower cost and no duplication", "Complete elimination of regional managers"],
+          "answer": "Faster local decisions but weaker central control",
+          "explanation": "Decentralisation speeds local decisions at the cost of central control. 'Slower but tighter uniform control' describes centralisation — the swapped profile."
+        },
+        {
+          "id": "u1-33",
+          "question": "Which is NOT a benefit of decentralisation?",
+          "options": ["Uniform, tightly controlled policy across all regions", "Faster local decisions", "Better local market responsiveness", "Development of regional managers"],
+          "answer": "Uniform, tightly controlled policy across all regions",
+          "explanation": "Uniform tight control is a strength of centralisation, not decentralisation — which actually risks inconsistent policy. The other three are genuine decentralisation benefits."
+        },
+        {
+          "id": "u1-34",
+          "question": "Which of these is a challenge (not a benefit) of decentralisation?",
+          "options": ["Duplication of effort across regions", "Faster local decision-making", "Better customer focus", "Reduced burden on top management"],
+          "answer": "Duplication of effort across regions",
+          "explanation": "Duplication is a decentralisation challenge; the other three are its benefits. The list mixes the pros and cons columns to test which side each item sits on."
+        },
+        {
+          "id": "u1-35",
+          "question": "Which of the following is a core task of the Chief Sales Executive?",
+          "options": ["Forecasting, budgeting, setting quotas and territories", "Auditing the company's tax returns", "Designing the product's packaging", "Negotiating the office lease"],
+          "answer": "Forecasting, budgeting, setting quotas and territories",
+          "explanation": "Planning — forecast, budget, quota, territory — is central to the Chief Sales Executive's role. Tax audits and packaging design belong to other functions entirely."
+        },
+        {
+          "id": "u1-41",
+          "question": "Product-based, geographic and customer-based sales structures are all examples of a ___ organisation.",
+          "options": ["Divisionalised", "Line", "Committee", "Informal"],
+          "answer": "Divisionalised",
+          "explanation": "Structures split by product, territory or customer are all divisionalised forms. A line structure is defined by direct vertical authority and a committee by group decision-making — different organising bases, not division, which is why they are the tempting wrong picks."
+        },
+        {
+          "id": "u1-42",
+          "question": "Which of the following is NOT a recommended strategy for building a strong and successful sales team?",
+          "options": ["Leaving roles and goals undefined", "Hiring the right people and training them", "Setting clear goals and rewarding performance", "Encouraging teamwork and coaching"],
+          "answer": "Leaving roles and goals undefined",
+          "explanation": "Building a strong team relies on hiring right, training, clear goals, rewards, teamwork and coaching. Leaving roles and goals undefined is the opposite of these strategies, making it the odd one out."
+        }
+      ]
+    },
+    {
+      "id": "unit2",
+      "unit": "Unit II",
+      "title": "Designing the Sales Force",
+      "questions": [
+        {
+          "id": "u2-01",
+          "question": "A sales force is best defined as:",
+          "options": ["A group of salespeople responsible for selling products and building customer relationships", "The firm's advertising and promotion budget", "The set of distribution warehouses", "The company's market research division"],
+          "answer": "A group of salespeople responsible for selling products and building customer relationships",
+          "explanation": "The sales force is the people who sell and build relationships. The advertising budget is a promotion resource, not the personal-selling arm."
+        },
+        {
+          "id": "u2-02",
+          "question": "\"Designing the sales force\" refers to deciding its:",
+          "options": ["Objectives, strategy, structure, size and compensation", "Advertising media schedule", "Product pricing and packaging", "Factory production targets"],
+          "answer": "Objectives, strategy, structure, size and compensation",
+          "explanation": "Design covers objectives, strategy, structure, size and pay. Pricing and packaging are marketing-mix decisions, not sales-force design."
+        },
+        {
+          "id": "u2-03",
+          "question": "Under Kotler's six sales-force tasks (PCSSIA), which of the following is included?",
+          "options": ["Prospecting", "Manufacturing", "Auditing", "Warehousing"],
+          "answer": "Prospecting",
+          "explanation": "Prospecting is the first of the six tasks (prospect, communicate, sell, service, gather info, allocate). Manufacturing and warehousing are not selling tasks."
+        },
+        {
+          "id": "u2-04",
+          "question": "Which is NOT one of the sales force's six objectives/tasks?",
+          "options": ["Auditing company accounts", "Communicating", "Servicing", "Information gathering"],
+          "answer": "Auditing company accounts",
+          "explanation": "Communicating, servicing and information-gathering are all sales-force tasks; auditing accounts is a finance function, not a selling objective."
+        },
+        {
+          "id": "u2-05",
+          "question": "\"Directly generating revenue and gathering market intelligence for the firm\" describes the ___ of the sales force, while \"two-way personal contact and flexibility\" describes the ___ of personal selling.",
+          "options": ["importance; benefits", "benefits; importance", "objectives; components", "components; objectives"],
+          "answer": "importance; benefits",
+          "explanation": "Importance is why the sales force matters to the firm (revenue, intelligence); benefits are the advantages of the personal-selling method itself (contact, flexibility). The two are commonly swapped."
+        },
+        {
+          "id": "u2-06",
+          "question": "Which is NOT a component of the sales force?",
+          "options": ["External advertising agency", "Field sales reps", "Inside sales staff", "Key account managers"],
+          "answer": "External advertising agency",
+          "explanation": "Field reps, inside sales and key account managers are sales-force components; an external advertising agency is an outside vendor, not part of the sales force."
+        },
+        {
+          "id": "u2-07",
+          "question": "The steps \"prospect, pre-approach, approach, presentation, handling objections, closing, follow-up\" describe the:",
+          "options": ["Sales Force Process (the selling steps)", "Process of Sales Force Planning", "Process of Managing the Sales Force", "Performance evaluation process"],
+          "answer": "Sales Force Process (the selling steps)",
+          "explanation": "These are the selling steps a rep follows. Sales-force planning instead designs the force (objectives to strategy to structure to size to comp), and managing runs it (recruit to train to motivate to supervise to evaluate)."
+        },
+        {
+          "id": "u2-08",
+          "question": "\"Recruit, train, motivate, supervise, evaluate\" is the:",
+          "options": ["Process of Managing the Sales Force", "Sales Force Process (selling steps)", "Process of Sales Force Planning", "Grievance-handling procedure"],
+          "answer": "Process of Managing the Sales Force",
+          "explanation": "Managing the force means recruit-train-motivate-supervise-evaluate. The selling steps (prospect to close) and the planning process (objectives to comp) are the two easily-confused neighbours."
+        },
+        {
+          "id": "u2-09",
+          "question": "In the process of sales force planning, what immediately follows setting objectives?",
+          "options": ["Designing the strategy", "Setting compensation", "Evaluating and controlling", "Recruiting and training"],
+          "answer": "Designing the strategy",
+          "explanation": "Planning order is objectives, strategy, structure, size, compensation, recruit/train, evaluate. Compensation and recruiting come much later; strategy is the second step."
+        },
+        {
+          "id": "u2-10",
+          "question": "In sales force planning, the size of the sales force is typically determined using the:",
+          "options": ["Workload method", "Ansoff matrix", "Seven C's", "LAER model"],
+          "answer": "Workload method",
+          "explanation": "The workload method sets sales-force size. The Ansoff matrix concerns growth strategy, and the 7 C's and LAER concern communication — none of them size the force."
+        },
+        {
+          "id": "u2-11",
+          "question": "In the sales force (selling) process, \"closing\" comes immediately after:",
+          "options": ["Handling objections", "Follow-up", "Prospecting", "Pre-approach"],
+          "answer": "Handling objections",
+          "explanation": "The order is presentation, handling objections, closing, follow-up. Follow-up comes after closing, not before — choosing it reverses the two final steps."
+        },
+        {
+          "id": "u2-12",
+          "question": "A salesperson who actively generates new business and seeks out new customers is an:",
+          "options": ["Order-getter", "Order-taker", "Missionary rep", "Inside sales clerk"],
+          "answer": "Order-getter",
+          "explanation": "Order-getters actively hunt new business. Order-takers merely process routine, passive orders — the defining active-versus-passive distinction being tested."
+        },
+        {
+          "id": "u2-13",
+          "question": "A rep who passively processes routine, repeat orders is an:",
+          "options": ["Order-taker", "Order-getter", "Missionary rep", "Technical support rep"],
+          "answer": "Order-taker",
+          "explanation": "Order-takers handle routine repeat orders passively. Order-getters are the active opposite, generating new business — the tempting swap."
+        },
+        {
+          "id": "u2-14",
+          "question": "A salesperson who builds goodwill and educates customers without directly taking orders is a:",
+          "options": ["Missionary rep", "Order-taker", "Key account manager", "Order-getter"],
+          "answer": "Missionary rep",
+          "explanation": "Missionary reps build goodwill and stimulate demand without booking orders themselves. An order-taker, by contrast, exists precisely to record orders — the intended contrast."
+        },
+        {
+          "id": "u2-29",
+          "question": "Which of the following is NOT a recognised selling approach when designing a sales-force strategy?",
+          "options": ["Assembly-line production", "Team selling", "Telemarketing", "Multi-level marketing (MLM)"],
+          "answer": "Assembly-line production",
+          "explanation": "Designing a sales-force strategy means choosing among selling approaches such as solo selling, team selling, telemarketing and MLM. Assembly-line production is a manufacturing method, not a selling approach — the odd one out."
+        },
+        {
+          "id": "u2-30",
+          "question": "A sales-force structure that combines two or more bases — for example territory plus product — into a single hybrid arrangement is a ___ structure.",
+          "options": ["Complex (hybrid)", "Purely territorial", "Purely product-based", "Purely customer-based"],
+          "answer": "Complex (hybrid)",
+          "explanation": "Combining two or more bases (e.g., territory plus product) yields a complex or hybrid structure. The single-base options are tempting because each is itself a valid sales-force structure type, but only the complex/hybrid form combines them."
+        },
+        {
+          "id": "u2-15",
+          "question": "A marketing strategy is built on which two frameworks?",
+          "options": ["STP and the 4Ps", "SWOT and PESTLE", "LAER and the 7 C's", "V-P-G and PCSSIA"],
+          "answer": "STP and the 4Ps",
+          "explanation": "Marketing strategy is Segmentation-Targeting-Positioning plus the marketing mix (Product, Price, Place, Promotion). SWOT is an analysis tool used within the process, not the strategy's building blocks."
+        },
+        {
+          "id": "u2-16",
+          "question": "Selling an existing product into a new market is which Ansoff growth strategy?",
+          "options": ["Market development", "Market penetration", "Product development", "Diversification"],
+          "answer": "Market development",
+          "explanation": "Existing product plus new market equals market development. Market penetration is an existing product in the existing market — same product, but the market differs, which is the trap."
+        },
+        {
+          "id": "u2-17",
+          "question": "Pushing an existing product harder in its existing market is:",
+          "options": ["Market penetration", "Product development", "Market development", "Diversification"],
+          "answer": "Market penetration",
+          "explanation": "Existing product in an existing market equals penetration. Product development (new product, same market) and market development (same product, new market) each change one axis — penetration changes neither."
+        },
+        {
+          "id": "u2-18",
+          "question": "\"Cost leadership, differentiation and focus\" belong to which framework?",
+          "options": ["Porter's generic strategies", "Ansoff's growth matrix", "The STP model", "The 4Ps"],
+          "answer": "Porter's generic strategies",
+          "explanation": "Cost-leadership, differentiation and focus are Porter's generic strategies. Penetration, product-development, market-development and diversification are Ansoff's — mixing the two frameworks is the classic error."
+        },
+        {
+          "id": "u2-19",
+          "question": "In designing a marketing strategy, segmentation is immediately followed by:",
+          "options": ["Targeting", "Positioning", "Designing the marketing mix", "Implementation"],
+          "answer": "Targeting",
+          "explanation": "Sequence is segment, target, position, mix. Positioning follows targeting, not segmentation directly — choosing it skips a step."
+        },
+        {
+          "id": "u2-20",
+          "question": "STP appears in both the components and the steps of marketing strategy. The difference is that components are ___ while steps are ___.",
+          "options": ["static building blocks; an ordered process", "an ordered process; static building blocks", "financial; non-financial", "internal; external"],
+          "answer": "static building blocks; an ordered process",
+          "explanation": "Components are the static building blocks (STP plus 4Ps); steps are the sequential process to build the strategy (objectives through control). The two are distinguished by static versus ordered."
+        },
+        {
+          "id": "u2-31",
+          "question": "Launching a new product into a new market is which Ansoff growth strategy?",
+          "options": ["Diversification", "Market penetration", "Market development", "Product development"],
+          "answer": "Diversification",
+          "explanation": "A new product plus a new market equals diversification — the highest-risk Ansoff quadrant. Market development (existing product, new market) and product development (new product, existing market) each change only one axis, so they are the tempting near-misses."
+        },
+        {
+          "id": "u2-32",
+          "question": "In designing a marketing strategy, market research and SWOT analysis are carried out immediately before:",
+          "options": ["Segmenting the market", "Setting the objectives", "Designing the marketing mix", "Implementation"],
+          "answer": "Segmenting the market",
+          "explanation": "The sequence is objectives, then research/SWOT, then segment, target, position, mix, implement, control. Research/SWOT precedes segmentation; setting objectives comes before research, not after — the tempting reversal."
+        },
+        {
+          "id": "u2-21",
+          "question": "Sales force compensation refers to:",
+          "options": ["The monetary and non-monetary reward system for salespeople", "The firm's total advertising spend", "The cost of goods sold", "The salesperson's travel itinerary"],
+          "answer": "The monetary and non-monetary reward system for salespeople",
+          "explanation": "Compensation is the reward system (money plus non-money). Advertising spend and cost of goods sold are unrelated cost categories."
+        },
+        {
+          "id": "u2-22",
+          "question": "Which statement correctly distinguishes compensation from incentive?",
+          "options": ["Compensation is the total ongoing pay package; incentive is an extra reward for extra performance", "Incentive is the total package; compensation is an occasional bonus", "They are identical terms", "Compensation is variable while incentive is fixed"],
+          "answer": "Compensation is the total ongoing pay package; incentive is an extra reward for extra performance",
+          "explanation": "Compensation is broad and ongoing and includes incentives; an incentive is a performance-triggered extra. Reversing the two is the built-in trap."
+        },
+        {
+          "id": "u2-23",
+          "question": "The relationship between compensation and incentive is that:",
+          "options": ["Incentive is a subset of compensation", "Compensation is a subset of incentive", "They are mutually exclusive", "Neither includes the other"],
+          "answer": "Incentive is a subset of compensation",
+          "explanation": "Compensation is the broad package that includes incentives; the incentive is the narrower performance reward within it. The reversed 'compensation is a subset of incentive' is the trap."
+        },
+        {
+          "id": "u2-24",
+          "question": "Under a straight-salary plan, the income risk is borne mainly by the:",
+          "options": ["Firm", "Salesperson", "Customer", "Distributor"],
+          "answer": "Firm",
+          "explanation": "Straight salary gives the rep security, so the firm bears the risk. Straight commission flips this — there the salesperson bears the income risk."
+        },
+        {
+          "id": "u2-25",
+          "question": "Under a straight-commission plan, the income risk falls mainly on the:",
+          "options": ["Salesperson", "Firm", "Sales manager", "Customer"],
+          "answer": "Salesperson",
+          "explanation": "With pure commission, pay varies with sales, so the rep bears the risk. Straight salary is the opposite — the firm carries it while the rep enjoys security."
+        },
+        {
+          "id": "u2-26",
+          "question": "Which compensation method is described as the most common, balancing security with incentive?",
+          "options": ["Salary plus commission", "Straight salary", "Straight commission", "Bonus only"],
+          "answer": "Salary plus commission",
+          "explanation": "Salary plus commission blends a secure base with performance upside and is the most widely used. Straight salary offers security but little drive; straight commission drives hard but offers no security."
+        },
+        {
+          "id": "u2-27",
+          "question": "Which of the following is NOT a recognised sales force compensation method?",
+          "options": ["Equity-only barter plan", "Straight salary", "Straight commission", "Salary plus bonus"],
+          "answer": "Equity-only barter plan",
+          "explanation": "Salary, commission and salary-plus-bonus are standard methods; an 'equity-only barter plan' is not a recognised sales-force compensation type."
+        },
+        {
+          "id": "u2-28",
+          "question": "In creating a sales force compensation plan, the step immediately before \"implement and administer\" is:",
+          "options": ["Pretest the plan", "Determine the level of pay", "Review the job and objectives", "Choose the method/mix"],
+          "answer": "Pretest the plan",
+          "explanation": "The order ends with pretest, implement, evaluate/revise. Reviewing the job and choosing the method are early steps — pretesting is the last checkpoint before rollout."
+        },
+        {
+          "id": "u2-33",
+          "question": "Which of the following is NOT an essential feature of a good sales-force compensation plan?",
+          "options": ["Being complex and difficult to understand", "Being fair and simple", "Providing income security plus incentive", "Being economical and competitive"],
+          "answer": "Being complex and difficult to understand",
+          "explanation": "A good compensation plan should be fair, simple, flexible, economical, motivating and competitive, combining security with incentive. Being complex and hard to understand is the opposite of the 'simple' feature — the odd one out."
+        },
+        {
+          "id": "u2-34",
+          "question": "The first step in creating a sales-force compensation plan is to:",
+          "options": ["Review the job and its objectives", "Pretest the plan", "Implement and administer the plan", "Decide on special incentives"],
+          "answer": "Review the job and its objectives",
+          "explanation": "The sequence begins by reviewing the job and objectives, then determining pay level, choosing the method, deciding incentives, pretesting, implementing and revising. Pretesting and implementation come near the end — choosing them mistakes the sequence's tail for its start."
+        }
+      ]
+    },
+    {
+      "id": "unit3",
+      "unit": "Unit III",
+      "title": "Managing the Sales Force",
+      "questions": [
+        {
+          "id": "u3-01",
+          "question": "Managing the sales force primarily involves grievance handling, motivating, leading, communicating and:",
+          "options": ["Evaluating performance", "Setting the product price", "Auditing the supply chain", "Designing packaging"],
+          "answer": "Evaluating performance",
+          "explanation": "Managing the force means handling grievances, motivating, leading, communicating and evaluating. Pricing and packaging are marketing-mix tasks, outside sales-force management."
+        },
+        {
+          "id": "u3-02",
+          "question": "An employee grievance is best defined as:",
+          "options": ["Any real or imagined feeling of dissatisfaction or injustice about the job", "A formal written resignation letter", "A scheduled performance appraisal", "A routine sales report"],
+          "answer": "Any real or imagined feeling of dissatisfaction or injustice about the job",
+          "explanation": "A grievance is a felt dissatisfaction, real or imagined. A resignation letter is an outcome, not the grievance itself — the tempting but wrong choice."
+        },
+        {
+          "id": "u3-03",
+          "question": "A grievance based on a genuine, legitimate factual basis is classified as:",
+          "options": ["Factual", "Imaginary", "Disguised", "Collective"],
+          "answer": "Factual",
+          "explanation": "Factual grievances have a real basis. Imaginary ones rest on mistaken perception, and disguised ones are hidden or psychological — only factual is grounded in genuine fact."
+        },
+        {
+          "id": "u3-04",
+          "question": "A grievance arising from a wrong perception with no real basis is:",
+          "options": ["Imaginary", "Factual", "Disguised", "Chronic"],
+          "answer": "Imaginary",
+          "explanation": "Imaginary grievances stem from mistaken belief. Factual is the trap — it has a legitimate real basis, the opposite of imaginary."
+        },
+        {
+          "id": "u3-05",
+          "question": "A hidden, psychological grievance that the employee does not openly express is:",
+          "options": ["Disguised", "Factual", "Imaginary", "Formal"],
+          "answer": "Disguised",
+          "explanation": "Disguised grievances are unexpressed, psychological needs. Imaginary is the near-miss — it is a mistaken perception, but disguised is specifically hidden or unstated."
+        },
+        {
+          "id": "u3-06",
+          "question": "\"Factual, imaginary and disguised\" are the ___ of grievance, while \"pay issues and poor supervision\" are its ___.",
+          "options": ["types; causes", "causes; types", "effects; causes", "types; effects"],
+          "answer": "types; causes",
+          "explanation": "Type is the nature of the grievance; cause is what triggers it (pay, supervision). Effects (low morale, turnover) are a third separate list — MCQs shuffle all three."
+        },
+        {
+          "id": "u3-07",
+          "question": "Which is NOT typically a cause of employee grievance?",
+          "options": ["A high company share price", "Pay and wage issues", "Poor working conditions", "Favouritism in promotions"],
+          "answer": "A high company share price",
+          "explanation": "Pay, conditions and favouritism are grievance causes; a high share price is unrelated to individual job dissatisfaction."
+        },
+        {
+          "id": "u3-08",
+          "question": "Which of the following is an effect (not a cause) of grievance?",
+          "options": ["Increased absenteeism and turnover", "Poor working conditions", "Unfair pay", "Supervisory misbehaviour"],
+          "answer": "Increased absenteeism and turnover",
+          "explanation": "Absenteeism and turnover are consequences of grievance; the other three are causes that trigger it. The question tests the cause-versus-effect boundary."
+        },
+        {
+          "id": "u3-09",
+          "question": "The first step in the grievance-handling procedure is to:",
+          "options": ["Identify/receive and acknowledge the grievance", "Implement the redress", "Investigate and gather facts", "Follow up and review"],
+          "answer": "Identify/receive and acknowledge the grievance",
+          "explanation": "Handling begins with receiving and acknowledging. Investigation follows only after the grievance is identified, and redress and follow-up come near the end."
+        },
+        {
+          "id": "u3-10",
+          "question": "In grievance handling, the step immediately after investigating and gathering facts is to:",
+          "options": ["Analyse and find the cause", "Follow up and review", "Identify the grievance", "Implement redress"],
+          "answer": "Analyse and find the cause",
+          "explanation": "The order is investigate, analyse, decide, redress, follow-up. Implementing redress and following up come later; analysis directly follows fact-gathering."
+        },
+        {
+          "id": "u3-11",
+          "question": "The final step in the grievance-handling procedure is:",
+          "options": ["Follow-up and review", "Investigate the facts", "Decide the solution", "Acknowledge the grievance"],
+          "answer": "Follow-up and review",
+          "explanation": "Follow-up closes the loop after redress. Acknowledging is the first step and deciding is in the middle — selecting them mistakes the sequence's ends."
+        },
+        {
+          "id": "u3-31",
+          "question": "Which of the following is a benefit of effective grievance handling?",
+          "options": ["Higher morale and greater employee trust", "Increased absenteeism", "More frequent strikes", "Lower productivity"],
+          "answer": "Higher morale and greater employee trust",
+          "explanation": "Handling grievances well raises morale, builds trust and loyalty, reduces conflict and turnover and improves productivity. The distractors (absenteeism, strikes, lower productivity) are effects of UN-handled grievances — the opposite of the benefits, which makes them tempting."
+        },
+        {
+          "id": "u3-12",
+          "question": "Motivation is best described as:",
+          "options": ["The inner drive that energises and directs effort toward goals", "A fixed monthly salary payment", "A written disciplinary warning", "A market demand forecast"],
+          "answer": "The inner drive that energises and directs effort toward goals",
+          "explanation": "Motivation is the internal drive directing effort. A salary is one motivational tool, not motivation itself — the tempting concrete-versus-concept trap."
+        },
+        {
+          "id": "u3-13",
+          "question": "Which is a NON-financial method of motivating the sales force?",
+          "options": ["Recognition and awards", "Commission", "Bonus", "Profit-sharing"],
+          "answer": "Recognition and awards",
+          "explanation": "Recognition and awards are non-financial. Commission, bonus and profit-sharing are all financial methods — only recognition carries no direct monetary payout."
+        },
+        {
+          "id": "u3-14",
+          "question": "Which of the following is a FINANCIAL method of motivation?",
+          "options": ["A sales contest cash prize", "Public recognition", "Job security", "Participation in decisions"],
+          "answer": "A sales contest cash prize",
+          "explanation": "A cash prize is financial. Recognition, security and participation are non-financial motivators — the contest's monetary reward is the distinguishing feature."
+        },
+        {
+          "id": "u3-15",
+          "question": "The syllabus separates motivation \"methods\" from \"strategies\". Methods are the ___, whereas strategies are the ___.",
+          "options": ["tools/types (financial vs non-financial); broad long-term approaches", "broad long-term approaches; specific tools", "financial only; non-financial only", "short-term actions; disciplinary measures"],
+          "answer": "tools/types (financial vs non-financial); broad long-term approaches",
+          "explanation": "Methods are the tools or types applied (money versus non-money); strategies are broader long-term approaches (culture, career path). Reversing them confuses the specific tool with the overarching approach."
+        },
+        {
+          "id": "u3-16",
+          "question": "\"Money, contests and recognition\" are motivation ___, whereas \"vision, communication and coaching\" are leadership ___.",
+          "options": ["methods; skills", "skills; methods", "effects; causes", "causes; effects"],
+          "answer": "methods; skills",
+          "explanation": "Methods are the tools you apply to drive effort; skills are the abilities the leader possesses. MCQs swap the applied-tool list with the personal-ability list."
+        },
+        {
+          "id": "u3-17",
+          "question": "Sales leadership is the ability to:",
+          "options": ["Influence, guide and inspire the sales team toward targets", "Set the company's tax policy", "Design the production schedule", "Audit the marketing budget"],
+          "answer": "Influence, guide and inspire the sales team toward targets",
+          "explanation": "Leadership is about influencing and inspiring the team to hit targets. Tax policy and production scheduling are unrelated managerial domains."
+        },
+        {
+          "id": "u3-18",
+          "question": "Which is NOT cited as a characteristic of effective sales leadership?",
+          "options": ["Indecisiveness", "Vision", "Empathy", "Integrity"],
+          "answer": "Indecisiveness",
+          "explanation": "Effective leaders are decisive; indecisiveness is the opposite of the listed trait. Vision, empathy and integrity are all genuine leadership characteristics."
+        },
+        {
+          "id": "u3-19",
+          "question": "Which is NOT listed as a role of technology in sales leadership?",
+          "options": ["Replacing the need for any human leader", "CRM systems", "Analytics dashboards", "Remote monitoring tools"],
+          "answer": "Replacing the need for any human leader",
+          "explanation": "Technology supports leadership through CRM, analytics and remote tools — it does not eliminate the leader. The outlier overstates technology's role."
+        },
+        {
+          "id": "u3-20",
+          "question": "The recommended way to overcome \"resistance to technology adoption\" among the sales team is:",
+          "options": ["Training plus leading by example", "Cutting all quotas to zero", "Ignoring the resistance", "Replacing the entire team"],
+          "answer": "Training plus leading by example",
+          "explanation": "Tech resistance is overcome by training and modelling adoption. The other options are either non-solutions or destructive, not the matched remedy."
+        },
+        {
+          "id": "u3-32",
+          "question": "Which of the following is a key reason why the sales force specifically needs motivation?",
+          "options": ["Reps often work alone and face frequent rejection", "Reps never interact with customers", "Selling has no effect on company revenue", "Sales roles involve no monotony"],
+          "answer": "Reps often work alone and face frequent rejection",
+          "explanation": "The sales force needs motivation because reps work alone or remotely, face rejection and monotony, and their effort directly drives sales and reduces turnover. The distractors state the opposite of these realities, which is what makes the correct reason stand out."
+        },
+        {
+          "id": "u3-33",
+          "question": "Which of the following is a core role of a sales-force leader?",
+          "options": ["Setting direction and coaching the team", "Preparing the company's tax filings", "Approving the factory's raw-material purchases", "Auditing the finance department"],
+          "answer": "Setting direction and coaching the team",
+          "explanation": "A sales leader sets direction, coaches, motivates, allocates work, monitors, resolves conflict and communicates. The distractors are finance and operations tasks that fall outside the sales-leadership role."
+        },
+        {
+          "id": "u3-34",
+          "question": "The recommended way for a sales leader to overcome high sales-force turnover is:",
+          "options": ["Coaching, clear career paths and a strong culture", "Increasing everyone's daily call quota", "Removing all training programmes", "Reducing communication with the team"],
+          "answer": "Coaching, clear career paths and a strong culture",
+          "explanation": "High turnover is addressed through coaching, career-path development and a supportive culture. The distractors would worsen retention rather than improve it, making the constructive option the clear match."
+        },
+        {
+          "id": "u3-21",
+          "question": "The role of communication in sales is chiefly to:",
+          "options": ["Build trust, convey value and close deals", "Calculate depreciation", "Schedule factory shifts", "Register trademarks"],
+          "answer": "Build trust, convey value and close deals",
+          "explanation": "Communication builds trust, conveys value and closes deals. Depreciation and factory scheduling are unrelated back-office tasks."
+        },
+        {
+          "id": "u3-22",
+          "question": "The \"7 C's\" of sales communication include clear, concise, concrete, correct, coherent, complete and:",
+          "options": ["Courteous", "Commissioned", "Competitive", "Centralised"],
+          "answer": "Courteous",
+          "explanation": "The seventh C is courteous. 'Commissioned' and 'competitive' are plausible sales words but are not part of the 7 C's of communication."
+        },
+        {
+          "id": "u3-23",
+          "question": "The LAER model for overcoming sales objections stands for:",
+          "options": ["Listen, Acknowledge, Explore, Respond", "Locate, Analyse, Execute, Report", "Learn, Ask, Explain, Resolve", "Listen, Argue, Escalate, Retreat"],
+          "answer": "Listen, Acknowledge, Explore, Respond",
+          "explanation": "LAER is Listen, Acknowledge, Explore, Respond. 'Listen, Argue...' is the trap — the model explicitly avoids arguing with the customer."
+        },
+        {
+          "id": "u3-24",
+          "question": "Besides LAER, which technique is recommended for handling sales objections?",
+          "options": ["Feel-Felt-Found", "V-P-G", "STP", "The 7 C's"],
+          "answer": "Feel-Felt-Found",
+          "explanation": "Feel-Felt-Found is an objection-handling technique. V-P-G (sales-management objectives) and STP (marketing strategy) belong to entirely different topics."
+        },
+        {
+          "id": "u3-25",
+          "question": "Performance evaluation of the sales force is the systematic appraisal of a rep's performance against:",
+          "options": ["Pre-set standards", "The manager's mood on the day", "Competitor salaries", "Randomly chosen targets"],
+          "answer": "Pre-set standards",
+          "explanation": "Evaluation compares actual results to pre-set standards. 'Randomly chosen targets' contradicts the defining feature — standards must be set in advance to be meaningful."
+        },
+        {
+          "id": "u3-26",
+          "question": "In performance evaluation, the quantitative and qualitative methods used to measure a rep are the ___, while the standards judged against are the ___.",
+          "options": ["techniques; criteria", "criteria; techniques", "concept; meaning", "purpose; process"],
+          "answer": "techniques; criteria",
+          "explanation": "Techniques are how you measure (quantitative plus qualitative methods); criteria are the standards you judge against. The two are the top trap — one is the method, the other the benchmark."
+        },
+        {
+          "id": "u3-27",
+          "question": "In quantitative evaluation, \"number of sales calls made\" is an ___ measure, whereas \"sales volume achieved\" is an ___ measure.",
+          "options": ["input; output", "output; input", "qualitative; quantitative", "financial; non-financial"],
+          "answer": "input; output",
+          "explanation": "Inputs are efforts (calls made, days worked); outputs are results (sales volume, orders). Reversing them is the intended swap — calls are effort, volume is result."
+        },
+        {
+          "id": "u3-28",
+          "question": "Which of these is a QUALITATIVE evaluation measure?",
+          "options": ["Attitude and cooperation", "Sales volume", "Number of orders", "New accounts opened"],
+          "answer": "Attitude and cooperation",
+          "explanation": "Attitude and cooperation are judgemental (qualitative). Sales volume, orders and new accounts are all measurable quantitative outputs — the odd one out is the non-numeric trait."
+        },
+        {
+          "id": "u3-29",
+          "question": "In the performance-evaluation process, the step immediately after measuring actual performance is to:",
+          "options": ["Compare actual with standard", "Set the standards", "Communicate the standards", "Take corrective action"],
+          "answer": "Compare actual with standard",
+          "explanation": "The order is set, communicate, measure, compare, feedback, correct. Corrective action comes only after comparison and feedback; comparison directly follows measurement."
+        },
+        {
+          "id": "u3-30",
+          "question": "The performance-evaluation process begins with:",
+          "options": ["Setting standards/goals", "Measuring performance", "Giving feedback", "Taking corrective action"],
+          "answer": "Setting standards/goals",
+          "explanation": "Evaluation starts by setting standards. Measuring and feedback come later — without standards set first, there is nothing to measure against."
+        },
+        {
+          "id": "u3-35",
+          "question": "Which of the following best helps a salesperson become a more successful communicator?",
+          "options": ["Active listening and adapting the message to the customer", "Talking over the customer to control the conversation", "Avoiding all follow-up after a meeting", "Ignoring the customer's body language"],
+          "answer": "Active listening and adapting the message to the customer",
+          "explanation": "Becoming a better sales communicator relies on active listening, asking questions, clarity, reading body language, adapting to the customer, confidence and follow-up. The distractors are the opposite of these behaviours, making the listening/adapting option the clear fit."
+        },
+        {
+          "id": "u3-36",
+          "question": "Which of the following is a purpose of sales-force performance evaluation?",
+          "options": ["To identify training needs and provide a basis for pay and promotion", "To set the company's advertising budget", "To design the product packaging", "To negotiate supplier contracts"],
+          "answer": "To identify training needs and provide a basis for pay and promotion",
+          "explanation": "Performance evaluation aims to measure performance, identify training needs, inform pay and promotion decisions, give feedback and enable control. The distractors are unrelated marketing or procurement tasks, not purposes of appraising sales reps."
+        },
+        {
+          "id": "u3-37",
+          "question": "Which of the following is NOT a feature of an effective sales-force performance-evaluation system?",
+          "options": ["Being based on the evaluator's personal bias", "Using fair and objective standards", "Giving regular, timely feedback", "Being linked to rewards"],
+          "answer": "Being based on the evaluator's personal bias",
+          "explanation": "Effective evaluation is fair, objective, timely, uses relevant measures, gives two-way feedback and links to rewards. Relying on personal bias is the opposite of the fair/objective criterion — the odd one out."
+        }
+      ]
+    }
+  ]
+}
